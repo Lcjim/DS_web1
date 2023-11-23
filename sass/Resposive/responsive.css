@@ -1,23 +1,11 @@
 
-@media screen and (max-width: 1554px) { 
+@media screen and (max-width: 1554px){ 
    
-    width: 1728px
-    height: 1573px
-    top: -559px
-    left: -859px
+    width: 1728px;
+    height: 1573px;
+    top: -559px;
+    left: -859px;
 
 }
 
-@media screen and (min-width: 426px) and (max-width: 768px) { 
-    width: 660px;
-    height: 666px;
-    top: 134px;
-}
-
-@media screen and (min-width: 769px) { 
-    width: 860px;
-    height: 866px;
-    top: 164px;
-}
-    
 
