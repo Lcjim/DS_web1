@@ -35,17 +35,22 @@ body{
 
 }
 
-@media screen and (min-width: 426px) and (max-width: 768px) {
-    width: 1027px;
-    height: 2020px;
-    left: -3px;
 
-}
 #chapeau{
     width: 728px;
     height: 752px;
     top: 158px;
     left: 854px;
-    
+}
 
+nav{
+
+    display: flex;
+    .push {
+        margin-right: auto;
+      }
+}
+footer{
+    background: rgba(16, 20, 27, 1);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 100%);
 }
