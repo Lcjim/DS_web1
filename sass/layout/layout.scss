@@ -1,0 +1,29 @@
+
+header {
+    position: relative;
+
+    img{
+        width: 215.31px;
+        height: 80px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    nav {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        background-color: #f8f8f8;
+    }
+}
+body{
+    border: 1px solid rgba(255, 255, 255, 1);
+   
+}
